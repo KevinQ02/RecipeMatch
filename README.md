@@ -33,10 +33,19 @@ Personalized onboarding (cuisines, dietary style, appliances)
 https://www.figma.com/design/XeFVZKPQZSoU8NmjBEMN2G/RecipeMatch-Design-File?node-id=411-2&t=W7u125B9f3zaQpGZ-1
 
 
-### 📚 References & Acknowledgments
-Inspired by Tinder-style UIs for swiping interaction
+---
 
-Spoonacular API (for sample recipe/nutrition data)
+## 📦 Required Resources
 
-Firebase tools for real-time interactivity
+- **Knowledge Areas**:
+  - Firebase and/or PostgreSQL integration
+  - OAuth or Firebase Auth
+  - React state management and routing
+- **Software Tools**:
+  - VS Code, GitHub, Figma, Firebase
+  - Optional: Spoonacular API for seeding content
+- **Hosting**:
+  - Firebase Hosting / Vercel for frontend
+  - Heroku / Render for backend if needed
+
 
