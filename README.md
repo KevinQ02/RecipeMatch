@@ -30,8 +30,6 @@ Personalized onboarding (cuisines, dietary style, appliances)
 - AI-powered recipe curatio
 
 ### 📸 UI Preview
-<details>
-  <summary>Click to Expand</summary>
 
 ![Onboarding Flow](<img width="753" alt="Screenshot 2025-05-02 at 3 26 34 PM" src="https://github.com/user-attachments/assets/5b276729-f5fa-4cc2-906e-8ca3ffead53f" />
 )  
@@ -40,7 +38,6 @@ Personalized onboarding (cuisines, dietary style, appliances)
 ![Grocery List](./screenshots/grocery.png)  
 ![Cookbook](./screenshots/cookbook.png)
 
-</details>
 
 ### 📚 References & Acknowledgments
 Inspired by Tinder-style UIs for swiping interaction
