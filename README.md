@@ -30,13 +30,7 @@ Personalized onboarding (cuisines, dietary style, appliances)
 - AI-powered recipe curatio
 
 ### 📸 UI Preview
-
-![Onboarding Flow](<img width="753" alt="Screenshot 2025-05-02 at 3 26 34 PM" src="https://github.com/user-attachments/assets/5b276729-f5fa-4cc2-906e-8ca3ffead53f" />
-)  
-![Recipe Discovery](./screenshots/recipeswipe.png)  
-![Class Booking](./screenshots/classflow.png)  
-![Grocery List](./screenshots/grocery.png)  
-![Cookbook](./screenshots/cookbook.png)
+https://www.figma.com/design/XeFVZKPQZSoU8NmjBEMN2G/RecipeMatch-Design-File?node-id=411-2&t=W7u125B9f3zaQpGZ-1
 
 
 ### 📚 References & Acknowledgments
